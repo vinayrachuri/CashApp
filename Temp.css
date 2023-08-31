@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: black;
+    height: 900px;
+    
+  }
+  
+
+
+
+  .navbar {
+    background-color:black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links li {
+    margin-left: 20px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+  }
+  
+  .nav-links a:hover {
+    color: #ff9900;
+  }
+  
+
+  .Cube{
+   margin-left: 150px;
+  }
+
+  .stair{
+  float: right;
+  margin-top:-50px;
+  margin-right:75px;
+  }
+  .cash{
+    margin-left: 250px;
+    margin-top: 100px;
+  }
+
+
+  .phone{
+    margin-left: 400px;
+    margin-top:-200px;
+  }
+
+  .app{
+    margin-left: 300px;
+    margin-top: -230px;
+  }
+
+  .logo{
+    float: left;
+  margin-top:-40px;
+  margin-left: 30px;
+  }
+  .eye{
+    float:right;
+    margin-right: 40px;
+
+  }
+
+  .cubes{
+    margin-left: 60px;
+    margin-top: 100;
+
+  }
+  .pillar{
+    float:right;
+    margin-top:-190px;
+  }
+  .appstore{
+  float:left;
+  margin-left: 10px;
+  }
+  .googleplay{
+    margin-left: 200px;
+  }
+
+  .frame{
+    float:right;
+    margin-right:100px;
+    margin-bottom: 10px;
+
+  }
+  .social{
+    float:right;
+    display: flex;
+    justify-content: space-around;
+    
+  }
